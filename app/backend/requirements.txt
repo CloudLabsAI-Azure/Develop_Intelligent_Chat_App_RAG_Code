@@ -351,7 +351,7 @@ soupsieve==2.7
     # via beautifulsoup4
 taskgroup==0.2.2
     # via hypercorn
-tenacity==9.1.2
+tenacity==9.1.4
     # via -r requirements.in
 tiktoken==0.8.0
     # via
